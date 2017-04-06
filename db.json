@@ -14,6 +14,16 @@
       "username": "asdf",
       "password": "asdf",
       "id": 3
+    },
+    {
+      "username": "foo",
+      "password": "bar",
+      "id": 4
+    },
+    {
+      "username": "jason",
+      "password": "jason",
+      "id": 5
     }
   ]
 }
